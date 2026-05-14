@@ -1,4 +1,4 @@
-package main
+wpackage main
 
 import "github.com/Erick-VP/godin/router"
 
